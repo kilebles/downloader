@@ -5,3 +5,5 @@ cookies.json
 cookies.txt
 CLAUDE.md
 .env
+/__pycache__
+.claude 
