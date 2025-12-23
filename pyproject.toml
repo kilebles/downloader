@@ -8,6 +8,9 @@ authors = [
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "anthropic>=0.39.0",
+    "pydantic>=2.0.0",
+    "pydantic-settings>=2.0.0",
 ]
 
 
